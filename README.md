@@ -1,2 +1,4 @@
 # Strapi-Docker
-Docker Strapi Application
+Dockerized Strapi Application with PostgreSQL DB
+
+
